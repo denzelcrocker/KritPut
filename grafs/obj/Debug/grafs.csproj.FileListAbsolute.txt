@@ -1,0 +1,16 @@
+C:\Users\zelen\Desktop\grafs\grafs\bin\Debug\grafs.exe.config
+C:\Users\zelen\Desktop\grafs\grafs\bin\Debug\grafs.exe
+C:\Users\zelen\Desktop\grafs\grafs\bin\Debug\grafs.pdb
+C:\Users\zelen\Desktop\grafs\grafs\obj\Debug\grafs.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\grafs\grafs\obj\Debug\grafs.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\grafs\grafs\obj\Debug\grafs.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\grafs\grafs\obj\Debug\grafs.exe
+C:\Users\zelen\Desktop\grafs\grafs\obj\Debug\grafs.pdb
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\bin\Debug\grafs.exe.config
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\bin\Debug\grafs.exe
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\bin\Debug\grafs.pdb
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\obj\Debug\grafs.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\obj\Debug\grafs.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\obj\Debug\grafs.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\obj\Debug\grafs.exe
+C:\Users\zelen\Desktop\Программирование\grafs\grafs\obj\Debug\grafs.pdb
